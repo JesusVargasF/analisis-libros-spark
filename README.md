@@ -5,15 +5,15 @@ Este proyecto demuestra el uso de Apache Spark para procesar y analizar libros d
 
     "Alice's Adventures in Wonderland" (Alicia en el País de las Maravillas) de Lewis Carroll.
 
-A través de cuadernos de Jupyter desde nuestra instancia EC2 en AWS, mostramos cómo utilizar Spark para realizar procesamiento de texto, análisis de frecuencia de palabras y otras operaciones interesantes sobre estos libros.
+A través de cuadernos de Jupyter desde nuestra instancia EC2 en AWS, mostramos cómo utilizar Spark para realizar procesamiento de texto, análisis de frecuencia de palabras y otras operaciones sobre estos libros.
 
 🚀 ¿Qué encontrarás en este repositorio?
 
 Notebooks de Jupyter:
 
-        analisis_war_drama.ipynb: Análisis de "The War Drama of the Eagles".
+analisis_war_drama.ipynb: Análisis de "The War Drama of the Eagles".
 
-        analisis_alicia_pais_maravillas.ipynb: Análisis de "Alicia en el País de las Maravillas".
+analisis_alicia_pais_maravillas.ipynb: Análisis de "Alicia en el País de las Maravillas".
 
 Datos:
     Los textos completos de los libros en formato .txt, descargados directamente de Project Gutenberg.
