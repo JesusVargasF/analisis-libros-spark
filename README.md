@@ -15,7 +15,7 @@ A través de cuadernos de Jupyter desde nuestra instancia EC2 en AWS, mostramos 
  analisis_war_drama.ipynb: Análisis de "The War Drama of the Eagles".
 
  analisis_alicia_pais_maravillas.ipynb: Análisis de "Alicia en el País de las Maravillas".
-
+***
 🛠️ **Tecnologías Utilizadas**
 
 **AWS:** Para la creacion de la EC2 y alojamiento de nuestro contenedor con JupyterLab.
