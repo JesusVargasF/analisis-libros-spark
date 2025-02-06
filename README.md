@@ -9,24 +9,24 @@ A través de cuadernos de Jupyter desde nuestra instancia EC2 en AWS, mostramos 
 
 🚀 ¿Qué encontrarás en este repositorio?
 
-    Notebooks de Jupyter:
+Notebooks de Jupyter:
 
         analisis_war_drama.ipynb: Análisis de "The War Drama of the Eagles".
 
         analisis_alicia_pais_maravillas.ipynb: Análisis de "Alicia en el País de las Maravillas".
 
-    Datos:
+Datos:
     Los textos completos de los libros en formato .txt, descargados directamente de Project Gutenberg.
 
-    Resultados:
+Resultados:
     Visualizaciones y conclusiones derivadas del análisis de Spark.
 
   🛠️ Tecnologías Utilizadas
 
-    AWS: Para la creacion de la EC2 y alojamiento de nuestro contenedor con JupyterLab.
+AWS: Para la creacion de la EC2 y alojamiento de nuestro contenedor con JupyterLab.
 
-    PySpark: La API de Python para Spark, utilizada en los notebooks.
+PySpark: La API de Python para Spark, utilizada en los notebooks.
 
-    Jupyter Notebooks: Para documentar y ejecutar el código de manera interactiva.
+Jupyter Notebooks: Para documentar y ejecutar el código de manera interactiva.
 
-    Project Gutenberg: Fuente de los textos literarios.
+Project Gutenberg: Fuente de los textos literarios.
