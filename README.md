@@ -24,4 +24,4 @@ En los cuadernos de Jupyter alojada en nuestra instancia EC2 en AWS, mostramos c
 
 **Jupyter Notebooks:** Para documentar y ejecutar el código de manera interactiva.
 
-**Project Gutenberg:** Fuente de los textos literarios.
+**Project Gutenberg:** Fuente de los libros.
