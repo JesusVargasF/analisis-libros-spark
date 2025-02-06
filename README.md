@@ -4,7 +4,7 @@ Este proyecto demuestra el uso de Apache Spark para procesar y analizar libros d
 
 📚"The War Drama of the Eagles" de John Alexander Strahan.
 
-📚"Alice's Adventures in Wonderland" (Alicia en el País de las Maravillas) de Lewis Carroll.
+📚"Alice's Adventures in Wonderland" de Lewis Carroll.
 
 En los cuadernos de Jupyter alojada en nuestra instancia EC2 en AWS, mostramos cómo utilizar Spark para realizar procesamiento de texto, análisis de frecuencia de palabras y otras operaciones sobre estos libros.
 ***
