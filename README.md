@@ -2,9 +2,9 @@
 
 Este proyecto demuestra el uso de Apache Spark para procesar y analizar libros de la colección de Project Gutenberg. En particular, exploramos dos libros:
 
-    "The War Drama of the Eagles" de John Alexander Strahan.
+📚"The War Drama of the Eagles" de John Alexander Strahan.
 
-    "Alice's Adventures in Wonderland" (Alicia en el País de las Maravillas) de Lewis Carroll.
+📚"Alice's Adventures in Wonderland" (Alicia en el País de las Maravillas) de Lewis Carroll.
 
 En los cuadernos de Jupyter alojada en nuestra instancia EC2 en AWS, mostramos cómo utilizar Spark para realizar procesamiento de texto, análisis de frecuencia de palabras y otras operaciones sobre estos libros.
 ***
