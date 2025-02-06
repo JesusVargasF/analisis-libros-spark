@@ -8,21 +8,15 @@ Este proyecto demuestra el uso de Apache Spark para procesar y analizar libros d
 
 A través de cuadernos de Jupyter desde nuestra instancia EC2 en AWS, mostramos cómo utilizar Spark para realizar procesamiento de texto, análisis de frecuencia de palabras y otras operaciones sobre estos libros.
 
-   🚀 **¿Qué encontrarás en este repositorio?**
+🚀 **¿Qué encontrarás en este repositorio?**
 
 **Notebooks de Jupyter:**
 
-analisis_war_drama.ipynb: Análisis de "The War Drama of the Eagles".
+ analisis_war_drama.ipynb: Análisis de "The War Drama of the Eagles".
 
-analisis_alicia_pais_maravillas.ipynb: Análisis de "Alicia en el País de las Maravillas".
+ analisis_alicia_pais_maravillas.ipynb: Análisis de "Alicia en el País de las Maravillas".
 
-**Datos:**
-    Los textos completos de los libros en formato .txt, descargados directamente de Project Gutenberg.
-
-**Resultados:**
-    Visualizaciones y conclusiones derivadas del análisis de Spark.
-
-  🛠️ **Tecnologías Utilizadas**
+🛠️ **Tecnologías Utilizadas**
 
 **AWS:** Para la creacion de la EC2 y alojamiento de nuestro contenedor con JupyterLab.
 
