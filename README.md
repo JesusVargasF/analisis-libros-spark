@@ -1,6 +1,6 @@
 # **Spark con datos de Project Gutenberg: Análisis de Libros**
 ***
-Este proyecto demuestra el uso de Apache Spark para procesar y analizar libros de la colección de Project Gutenberg. En particular, exploramos dos libros:
+Este repositorio muestra el uso de Apache Spark para procesar y analizar libros de la colección de Project Gutenberg. En particular, exploramos dos libros:
 
 📚"The War Drama of the Eagles" de John Alexander Strahan.
 
@@ -20,8 +20,8 @@ En los cuadernos de Jupyter alojada en nuestra instancia EC2 en AWS, mostramos c
 
 **AWS:** Para la creacion de la EC2 y alojamiento de nuestro contenedor con JupyterLab.
 
-**PySpark:** La API de Python para Spark, utilizada en los notebooks.
+**PySpark:** Python para Spark, utilizada en los notebooks.
 
-**Jupyter Notebooks:** Para documentar y ejecutar el código de manera interactiva.
+**Jupyter Notebooks:** Para documentar y ejecutar el código.
 
 **Project Gutenberg:** Fuente de los libros.
